@@ -29,7 +29,7 @@
 ### 特征
 
 * 使用 Rust 语言实现AliOS Things内核rhino
-* 至少支持RISC-V平台
+* 至少支持RISC-V 32/64平台
 * 支持QEMU RISC-V仿真和Kendryte K210开发板
 
 ### 参考实现
